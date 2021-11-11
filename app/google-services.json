@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503473534091",
+    "project_id": "multiplica-f4e4e",
+    "storage_bucket": "multiplica-f4e4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503473534091:android:ad10b089a673aa605e508e",
+        "android_client_info": {
+          "package_name": "mx.softia.multiplica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503473534091-l459hrhbku2bojrmhafto63utfrvqmi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN3TlkMmcPI-OeSmUxV7fcEhocyd_O20Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503473534091-l459hrhbku2bojrmhafto63utfrvqmi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

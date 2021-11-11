@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navegacion_inicio">
+
+    <fragment
+        android:id="@+id/navegacion_inicio"
+        android:name="mx.softia.multiplica.navegacion.InicioFragmento"
+        android:label="@string/titulo_bienvenido"
+        tools:layout="@layout/fragment_inicio" />
+
+    <fragment
+        android:id="@+id/navegacion_productos"
+        android:name="mx.softia.multiplica.navegacion.ProductosFragmento"
+        android:label="@string/titulo_productos"
+        tools:layout="@layout/fragment_productos" />
+
+
+    <fragment
+        android:id="@+id/navegacion_servicios"
+        android:name="mx.softia.multiplica.navegacion.ServiciosFragmento"
+        android:label="@string/titulo_servicios"
+        tools:layout="@layout/fragment_servicios" />
+
+
+</navigation>

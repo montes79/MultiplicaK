@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">XFireBase</string>
+    <string name="mensaje_bienvenida">Multiplica FireBase by Luis Montes</string>
+    <string name="hint_correo">Ingresa tu correo</string>
+    <string name="hint_contrasena">Ingresa tu password</string>
+    <string name="hint_confirma_contrasena">Confirma tu password</string>
+    <string name="texto_boton_irVistaRegistro">Nuevo usuario</string>
+    <string name="texto_boton_registrar">Registrar</string>
+    <string name="texto_boton_ingresar">Ingresar</string>
+    <string name="texto_dialogo_ok">Aceptar</string>
+    <string name="texto_dialogo_title">Entrada incorrecta</string>
+    <string name="texto_dialogo_error_correo">Ingrese un correo valido</string>
+    <string name="texto_error_autenticacion">Error de autenticación</string>
+    <string name="texto_debug_sout">XMULTIPLICA => &gt; Respuesta de FireBase Auth: </string>
+    <string name="titulo_pantalla_ingreso">Bienvenido</string>
+    <string name="texto_sin_mensaje">Sin mensaje</string>
+    <string name="texto_registrar_usuario">Ingresa tus datos para registro</string>
+    <string name="texto_registrar_nombre">Ingresa tu nombre</string>
+    <string name="texto_registrar_apellido">Ingresa tu apellido</string>
+    <string name="texto_boton_cancelar">Cancelar</string>
+
+    <string name="text_contrasena_vacia">La contraseña no puede estar vacia</string>
+    <string name="text_correo_vacia">La dirección de correo no puede estar vacia</string>
+    <string name="texto_dialogo_error_nombre">Ingrese su nombre</string>
+    <string name="texto_dialogo_error_apellido">Ingrese su apellido</string>
+    <string name="texto_dialogo_error_coincidencia_contrasena">Su confirmación de contraseña no coincide</string>
+    <string name="texto_dialogo_registro_OK">Se ha registrado correctamente al usuario</string>
+    <string name="texto_dialogo_sesion_OK">Se ha iniciado sesion correctamente</string>
+    <string name="texto_ok_autenticacion">Autenticación correcta</string>
+
+    <string name="titulo_bienvenido">Inicio</string>
+    <string name="titulo_productos">Productos</string>
+    <string name="titulo_servicios">Servicios</string>
+
+    <string name="cadena_shared_preferences">mx.softia.multiplica.MIS_PREFERENCIAS</string>
+    <string name="title_activity_menu_navegacion">MenuNavegacion</string>
+
+
+    <string name="parametro_sesion_correo">correo</string>
+    <string name="parametro_sesion_userid">idusuario</string>
+    <string name="parametro_sesion_nombrecompleto">nombrecompleto</string>
+    <string name="cadenavacia">&#160; &#160;</string>
+    <string name="txt_saludo">Hola </string>
+    <string name="txt_btn_cerrar_sesion">Cerrar sesión </string>
+    <string name="txt_confirmar_salida">Confirma cierre de sesión? </string>
+
+</resources>
